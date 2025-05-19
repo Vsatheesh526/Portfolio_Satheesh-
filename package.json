@@ -8,10 +8,10 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "homepage": "https://vsatheesh526.github.io/Portfolio_Satheesh-/",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
+  "homepage": "https://vsatheesh526.github.io/Portfolio_Satheesh-/",
   "dependencies": {
     "canvas-confetti": "^1.9.3",
     "framer-motion": "^10.18.0",
