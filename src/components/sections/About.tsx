@@ -68,7 +68,7 @@ const About: React.FC<AboutProps> = ({ setActiveSection }) => {
             transition={{ duration: 0.5, delay: 0.2 }}
           >
             <img 
-              src="https://media.licdn.com/dms/image/v2/D5603AQHUgTlzWj3pYw/profile-displayphoto-crop_800_800/B56Z.2VL8YKIAI-/0/1785470435787?e=1792627200&v=beta&t=tR2HLn3Rx_S-ELWMWPr_dF5Fg7-2jMMx8ZUihPTOi_c" 
+              src="https://res.cloudinary.com/dn4okkd2p/image/upload/v1795632926/1785470435787_m8yqwy.png" 
               alt="Developer coding" 
               className="rounded-lg shadow-lg w-full h-auto"
             />
